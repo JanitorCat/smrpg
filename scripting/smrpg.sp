@@ -1,3 +1,4 @@
+#pragma dynamic 1048576
 #pragma semicolon 1
 #include <sourcemod>
 #include <sdktools>
